@@ -57,21 +57,21 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by JAMES TECH*
-*_Made With 🤍_*
-______________________________________
+*_💀JAMES MD💔*
+*_Made BY ©️JAMES_*
+_____________________
 ╔════◇
-║ *『 WOW YOU'VE CHOSEN JAMES MD 』*
-║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
-╚════════════════════════╝
+║ *『🌹 JAMES MD🌹 』*
+║ _💞COPY SESSION💞 ._
+╚════════════════╝
 ╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
+║  『••• 🌹JAMES MD🌹 INFO •••』
 
-║❒ *Owner:* _https://wa.me/254778743455_
-║❒ *Repo:* _https://github.com/jtechde/james
-║❒ *WaGroup:* _https://chat.whatsapp.com/F0x0O4o8reS15D6kVfAChW
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H
-║❒ *Plugins:* _https://github.com/jtechde/james-PLUGINS_
+║🏆 *Owner:* _https://wa.me/254778743455_
+║🏆 *Repo:* _https://github.com/jtechde/james
+║🏆 *WaGroup:* _https://chat.whatsapp.com/F0x0O4o8reS15D6kVfAChW
+║🏆 *WaChannel:* _https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H
+║🏆 *Plugins:* _https://github.com/jtechde/james-PLUGINS_
 ╚════════════════════════╝
 _____________________________________
 
