@@ -59,19 +59,19 @@ router.get('/', async (req, res) => {
                let GIFTED_MD_TEXT = `
 *_💀JAMES MD💔*
 *_Made BY ©️JAMES_*
-_____________________
-╔════◇
-║ *『🌹 JAMES MD🌹 』*
-║ _💞COPY SESSION💞 ._
-╚════════════════╝
+____________🌹_________
+╔════🌹
+║ *『🌹 JAMES 💞MD🌹 』*
+║ _💞COPY🌹 SESSION💞 ._
+╚══💞═══════🌹═══════╝
 ╔═════◇
 ║  『••• 🌹JAMES MD🌹 INFO •••』
 
-║🏆 *Owner:* _https://wa.me/254778743455_
-║🏆 *Repo:* _https://github.com/jtechde/james
-║🏆 *WaGroup:* _https://chat.whatsapp.com/F0x0O4o8reS15D6kVfAChW
-║🏆 *WaChannel:* _https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H
-║🏆 *Plugins:* _https://github.com/jtechde/james-PLUGINS_
+║🏆 *Owner🌹:* _https://wa.me/+254 781 351479_
+║🏆 *Repo🌹:* _https://github.com/jtechde/james
+║🏆 *WaGroup🌹:* _https://chat.whatsapp.com/F0x0O4o8reS15D6kVfAChW
+║🏆 *WaChannel🌹:* _https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H
+║🏆 *Plugins🌹:* _https://github.com/jtechde/james-PLUGINS_
 ╚════════════════════════╝
 _____________________________________
 
